@@ -1,0 +1,63 @@
+
+/* Themify Custom CSS */
+/*ACCUEIL*/
+.sub_column_post_2947.sub_column_0-0-0-0.sub_column {
+border-top-left-radius: 1%;
+border-top-right-radius: 1%;
+}
+span.post-category a, .themify_builder .post-2947-1-0-0.module-post .post-title a {
+    text-decoration: none !important;
+}
+.themify_builder .post-2947-1-0-0.module-post .post {
+    border-radius: 3%;
+}
+h2.post-title.entry-title a {
+    text-decoration: none !important;
+}
+.home .post-content {
+    background: white;
+    opacity: 0.5;
+    padding: 1em;
+}
+.loops-wrapper.grid2 .post .post-content {
+    padding-left: 1em;
+    border-radius: 1%;
+}
+#footer {
+    padding-top: 50px;
+}
+#footer-logo {
+    text-transform: none;
+}
+#header {
+    padding: 20px 0;
+}
+.home figure.post-image {
+    max-height: 260px;
+}
+.loops-wrapper.grid2 .post .post-content .entry-content {
+    text-align: left;
+}
+#content, #sidebar {
+    padding: 1%;
+}
+h1.page-title {
+    font-size: 2em;
+}
+.featured-area {
+    background: radial-gradient(silver, transparent);
+}
+#menu-item-2993 a {
+    background: #f5f5f5;
+    color: #555;
+    border-radius: 1%;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 3px #999;
+    padding: 10px;
+}
+figure.post-image {
+    padding: 1em;
+}
+.has-fixed-header #pagewrap {
+    padding-top: 100px !important;
+}
